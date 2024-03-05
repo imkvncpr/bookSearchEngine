@@ -1,14 +1,4 @@
-body{
-    background-color: grey;
-}
-h1{
-    color: aquamarine;
-   
-}
-#paragraph{
-    color: aquamarine
-}
-.paragraph2{
-    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
-    font-size: 40px;
+#main-body{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
